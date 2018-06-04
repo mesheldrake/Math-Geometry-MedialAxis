@@ -6,7 +6,7 @@ use warnings;
 
 =head1 NAME
 
-Math::Geometry::MedialAxis - The great new Math::Geometry::MedialAxis!
+Math::Geometry::MedialAxis
 
 =head1 VERSION
 
@@ -43,45 +43,14 @@ if you don't export anything, such as for a purely object-oriented module.
 
 =head1 AUTHOR
 
-Michael E. Sheldrake, C<< <mike.sheldrake at gmail.com> >>
+Michael E. Sheldrake
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-math-geometry-medialaxis at rt.cpan.org>, or through
-the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Math-Geometry-MedialAxis>.  I will be notified, and then you'll
-automatically be notified of progress on your bug as I make changes.
-
-
+Probably.
 
 
 =head1 SUPPORT
-
-You can find documentation for this module with the perldoc command.
-
-    perldoc Math::Geometry::MedialAxis
-
-
-You can also look for information at:
-
-=over 4
-
-=item * RT: CPAN's request tracker (report bugs here)
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Math-Geometry-MedialAxis>
-
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/Math-Geometry-MedialAxis>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/Math-Geometry-MedialAxis>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/Math-Geometry-MedialAxis/>
-
-=back
 
 
 =head1 ACKNOWLEDGEMENTS
@@ -89,7 +58,7 @@ L<http://search.cpan.org/dist/Math-Geometry-MedialAxis/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2016 Michael E. Sheldrake.
+Copyright 2018 Michael E. Sheldrake.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of the the Artistic License (2.0). You may obtain a
