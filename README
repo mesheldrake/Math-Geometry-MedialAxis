@@ -1,0 +1,7 @@
+Math::Geometry::MedialAxis
+
+Tools for more advanced applications of the Medial Axis genereated by Boost::Polygon::MedialAxis.
+
+Much of this was extracted and distilled from code developed for Slic3r, but the applications should be more far reaching.
+
+Not production quality yet, but I use it for my productions.
